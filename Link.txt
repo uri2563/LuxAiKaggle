@@ -1,0 +1,6 @@
+https://github.com/Lux-AI-Challenge/Lux-Design-2021
+
+
+visualizer:
+https://2021vis.lux-ai.org/
+

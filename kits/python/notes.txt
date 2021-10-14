@@ -1,0 +1,9 @@
+ 
+run command:
+npx lux-ai-2021 simple/main.py simple/main.py --width 24 --height 24
+
+
+site:
+https://www.kaggle.com/c/lux-ai-2021
+git:
+https://github.com/Lux-AI-Challenge/Lux-Design-2021
